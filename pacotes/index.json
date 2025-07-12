@@ -31,7 +31,7 @@
       "gratuito": false,
       "preco_brl": 4.99,
       "icone": "🦜",
-      "url_dados": "https://seuusername.github.io/animais-app-api/pacotes/aves_brasil.json",
+      "url_dados": "https://github.com/marcelojrrangel/animais/blob/main/pacotes/aves_brasil.json",
       "preview": [
         {
           "nome": "Bem-te-vi",

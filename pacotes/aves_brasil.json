@@ -1,1 +1,113 @@
-
+{
+  "id": "aves_brasil",
+  "nome": "Animais Domésticos",
+  "versao": "1.0",
+  "criado_em": "2025-07-12",
+  "animais": [
+    {
+      "id": "cachorro",
+      "nome": "Cachorro",
+      "descricao": "O melhor amigo do homem! Faz 'au au' quando está feliz.",
+      "emoji": "🐕",
+      "som": {
+        "url": "https://seuusername.github.io/animais-app-api/sounds/cachorro.mp3",
+        "duracao_segundos": 2,
+        "tamanho_kb": 45,
+        "hash": "abc123def456"
+      },
+      "imagem": {
+        "url": "https://seuusername.github.io/animais-app-api/images/cachorro.jpg",
+        "tamanho_kb": 120,
+        "hash": "img123hash456"
+      },
+      "curiosidades": [
+        "Existem mais de 300 raças de cães no mundo",
+        "Os cães conseguem entender até 150 palavras"
+      ]
+    },
+    {
+      "id": "gato",
+      "nome": "Gato",
+      "descricao": "Felino carinhoso que faz 'miau' para se comunicar.",
+      "emoji": "🐱",
+      "som": {
+        "url": "https://seuusername.github.io/animais-app-api/sounds/gato.mp3",
+        "duracao_segundos": 1,
+        "tamanho_kb": 32,
+        "hash": "gato123hash"
+      },
+      "imagem": {
+        "url": "https://seuusername.github.io/animais-app-api/images/gato.jpg",
+        "tamanho_kb": 95,
+        "hash": "gatoimg456"
+      },
+      "curiosidades": [
+        "Gatos dormem de 12 a 16 horas por dia",
+        "Têm visão noturna 6 vezes melhor que humanos"
+      ]
+    },
+    {
+      "id": "cavalo",
+      "nome": "Cavalo",
+      "descricao": "Animal forte e elegante que faz 'iiiirrr' quando se comunica.",
+      "emoji": "🐴",
+      "som": {
+        "url": "https://seuusername.github.io/animais-app-api/sounds/cavalo.mp3",
+        "duracao_segundos": 3,
+        "tamanho_kb": 67,
+        "hash": "cavalo789hash"
+      },
+      "imagem": {
+        "url": "https://seuusername.github.io/animais-app-api/images/cavalo.jpg",
+        "tamanho_kb": 150,
+        "hash": "cavaloimg789"
+      },
+      "curiosidades": [
+        "Podem correr até 88 km/h",
+        "Conseguem dormir em pé"
+      ]
+    },
+    {
+      "id": "vaca",
+      "nome": "Vaca",
+      "descricao": "Animal da fazenda que nos dá leite e faz 'muuu'.",
+      "emoji": "🐄",
+      "som": {
+        "url": "https://seuusername.github.io/animais-app-api/sounds/vaca.mp3",
+        "duracao_segundos": 2,
+        "tamanho_kb": 52,
+        "hash": "vaca456hash"
+      },
+      "imagem": {
+        "url": "https://seuusername.github.io/animais-app-api/images/vaca.jpg",
+        "tamanho_kb": 110,
+        "hash": "vacaimg456"
+      },
+      "curiosidades": [
+        "Produzem até 25 litros de leite por dia",
+        "Têm 4 estômagos para digerir grama"
+      ]
+    },
+    {
+      "id": "galo",
+      "nome": "Galo",
+      "descricao": "Desperta a fazenda com seu 'cocoricó' toda manhã.",
+      "emoji": "🐓",
+      "som": {
+        "url": "https://seuusername.github.io/animais-app-api/sounds/galo.mp3",
+        "duracao_segundos": 3,
+        "tamanho_kb": 58,
+        "hash": "galo789hash"
+      },
+      "imagem": {
+        "url": "https://seuusername.github.io/animais-app-api/images/galo.jpg",
+        "tamanho_kb": 130,
+        "hash": "galoimg789"
+      },
+      "curiosidades": [
+        "Cantam para marcar território",
+        "Conseguem ver cores melhor que humanos"
+      ]
+    }
+  ]
+}

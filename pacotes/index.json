@@ -1,0 +1,47 @@
+{
+  "versao_api": "1.0",
+  "ultima_atualizacao": "2025-07-12",
+  "pacotes": [
+    {
+      "id": "domesticos",
+      "nome": "Animais Domésticos",
+      "descricao": "Cachorro, gato, cavalo, vaca e galo",
+      "versao": "1.0",
+      "tamanho_mb": 2.1,
+      "gratuito": true,
+      "icone": "🏠",
+      "url_dados": "https://seuusername.github.io/animais-app-api/pacotes/domesticos.json",
+      "preview": [
+        {
+          "nome": "Cachorro",
+          "emoji": "🐕"
+        },
+        {
+          "nome": "Gato", 
+          "emoji": "🐱"
+        }
+      ]
+    },
+    {
+      "id": "aves_brasil",
+      "nome": "Aves do Brasil",
+      "descricao": "Bem-te-vi, sabiá, curió e mais",
+      "versao": "1.0",
+      "tamanho_mb": 3.5,
+      "gratuito": false,
+      "preco_brl": 4.99,
+      "icone": "🦜",
+      "url_dados": "https://seuusername.github.io/animais-app-api/pacotes/aves_brasil.json",
+      "preview": [
+        {
+          "nome": "Bem-te-vi",
+          "emoji": "🐦"
+        },
+        {
+          "nome": "Sabiá",
+          "emoji": "🐦"
+        }
+      ]
+    }
+  ]
+}

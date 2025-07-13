@@ -88,7 +88,7 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/vaca.png",
         "hash": "59a397845211b781446d6cbf774df8f7"
-      },
+      },      
       "curiosidades": [
         "As vacas não conseguem descer escadas facilmente.",
         "Elas bebem um volume de água equivalente a uma banheira cheia por dia."
@@ -178,6 +178,10 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/pintinho.png",
         "hash": "eb25995b5aa9914db2fc18fcc07d1104"
+      },
+      "cantiga": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/cantigas/pintinho.mp3",
+        "hash": "94685ebfbbb061ebd37c9111287be6d1"
       },
       "curiosidades": [
         "Antes de nascerem, os pintinhos ficam bem apertadinhos dentro do ovo. Para sair, eles usam um 'dentinho' especial no bico para quebrar a casquinha! É como se eles estivessem dando pequenos toques mágicos até a porta se abrir.",

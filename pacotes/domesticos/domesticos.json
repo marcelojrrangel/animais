@@ -11,11 +11,11 @@
       "emoji": "🐶",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cachorro.mp3",
-        "hash": "abc123def456"
+        "hash": "44cc22b8537c31cdbfa9992dc7de393e"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cachorro.png",
-        "hash": "img123hash456"
+        "hash": "a49c314803da7eaa74e0f6f51ac39e57"
       },
       "curiosidades": [
         "Existem mais de 300 raças de cães no mundo.",
@@ -29,11 +29,11 @@
       "emoji": "🐱",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/gato.mp3",
-        "hash": "gato123hash"
+        "hash": "7618a0e7ffb0f04a5d0abff26b59ab7c"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/gato.png",
-        "hash": "gatoimg456"
+        "hash": "874376f2793bd05b2e87dad64965d4cc"
       },
       "curiosidades": [
         "Gatos dormem de 12 a 16 horas por dia.",
@@ -47,11 +47,11 @@
       "emoji": "🐔",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/galo.mp3",
-        "hash": "galo123hash"
+        "hash": "0b6bcc6ff423a3a30ee2ae8b15676bf3"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/galo.png",
-        "hash": "galoimg456"
+        "hash": "b154d99752ffe5777c3ff3b93a1c56a2"
       },
       "curiosidades": [
         "O canto do galo é conhecido como 'cocoricó'.",
@@ -65,11 +65,11 @@
       "emoji": "🐴",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cavalo.mp3",
-        "hash": "cavalo789hash"
+        "hash": "8d546cc74437ae72b70deb3f7e234a24"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cavalo.png",
-        "hash": "cavaloimg789"
+        "hash": "301a671953c73702ae3b7cb94c0ef966"
       },
       "curiosidades": [
         "Cavalos podem correr a velocidades incríveis.",
@@ -83,15 +83,105 @@
       "emoji": "🐮",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/vaca.mp3",
-        "hash": "vaca456hash"
+        "hash": "578cfd0ee7b1e3e7ef48ba4c0eba9b2c"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/vaca.png",
-        "hash": "vaca_img_hash_123"
+        "hash": "59a397845211b781446d6cbf774df8f7"
       },
       "curiosidades": [
         "As vacas não conseguem descer escadas facilmente.",
         "Elas bebem um volume de água equivalente a uma banheira cheia por dia."
+      ]
+    },
+    {
+      "id": "porco",
+      "nome": "Porco",
+      "descricao": "O porco é muito inteligente e ao contrário do que falam é muito limpinho.",
+      "emoji": "🐷",
+      "som": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/porco.mp3",
+        "hash": "2505cbf183e6011c0767c752fb55bf49"
+      },
+      "imagem": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/porco.png",
+        "hash": "79da5dd4150021d2bb71962eb18e96c3"
+      },
+      "curiosidades": [
+        "Porcos são considerados um dos animais mais inteligentes do planeta",
+        "Eles se comunicam usando uma variedade de sons, que vão desde grunhidos suaves até guinchos altos."
+      ]
+    },
+    {
+      "id": "ovelha",
+      "nome": "Ovelha",
+      "descricao": "A ovelha é um animalzinho muito fofinho e peludo, que adora viver com seus amigos no campo.",
+      "emoji": "🐑",
+      "som": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/ovelha.mp3",
+        "hash": "61bc7e4ab4a95c232b3aebee2a22a810"
+      },
+      "imagem": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/ovelha.png",
+        "hash": "8351b302a86fd40110c5e9e45fe89ece"
+      },
+      "curiosidades": [
+        "Sabe aquele cabelo de nuvem das ovelhas? Ele cresce o ano todo! Por isso, elas precisam de um 'corte de cabelo' especial para não ficarem com muito calor e ficarem bem levinhas.",
+        "s ovelhas são muito espertas! Elas conseguem reconhecer o rosto de outras ovelhas amigas e até o rosto de pessoas que gostam delas, como você! Elas guardam esses rostinhos na memória por muito tempo!"
+      ]
+    },
+    {
+      "id": "pato",
+      "nome": "Pato",
+      "descricao": "O pato é um passarinho muito simpático que adora nadar e mergulhar na água! Ele tem um bico grande e chato, que é perfeito para pegar comidinhas na lagoa, e pés com 'nadadeiras' que o ajudam a ser um ótimo nadador. O pato faz 'quá-quá' e é muito divertido de observar!",
+      "emoji": "🦆",
+      "som": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/pato.mp3",
+        "hash": "f85d74a52f42b2a8e5a67aef55d55c33"
+      },
+      "imagem": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/pato.png",
+        "hash": "76abf48593e462babaf4fdbd03abb19f"
+      },
+      "curiosidades": [
+        "Os patos têm pés que parecem raquetes! Isso os ajuda a empurrar a água e nadar super rápido, como se fossem pequenos barquinhos.",
+        "A penugem dos patos é especial e não deixa a água entrar! É como se eles tivessem uma capa de chuva natural, então eles podem mergulhar e sair da água sempre sequinhos."
+      ]
+    },
+    {
+      "id": "galinha",
+      "nome": "Galinha",
+      "descricao": "A galinha é uma ave muito fofinha que vive na fazenda e adora passear pelo quintal ciscando o chão com seus pezinhos. Ela tem penas macias e quentinhas e faz um barulho engraçado: 'Có-có-có!'. As galinhas são mamães muito carinhosas e protegem seus pintinhos com muito cuidado.",
+      "emoji": "🐔",
+      "som": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/galinha.mp3",
+        "hash": "aad26ee0e57c4892598df72d87adecc6"
+      },
+      "imagem": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/galinha.png",
+        "hash": "c9ff6201915e1841162bf777de9c1d14"
+      },
+      "curiosidades": [
+        "As galinhas adoram conversar entre si! Elas fazem muitos barulhinhos diferentes para chamar seus filhotes, avisar sobre um perigo ou simplesmente para bater um papo com as outras galinhas. É como se tivessem um idioma secreto!",
+        "A mamãe galinha choca seus ovinhos com muito amor e cuidado, sentando-se neles para mantê-los quentinhos até os pintinhos nascerem. Depois que os pintinhos saem dos ovos, ela os ensina a encontrar comidinha e os protege de qualquer perigo, sendo uma super-mãe!"
+      ]
+    },
+    {
+      "id": "pintinho",
+      "nome": "Pintinho",
+      "descricao": "Os pintinhos são os bebês da galinha e são tão fofinhos que parecem bolinhas de pena amarelas! Eles são pequenos, macios e adoram seguir a mamãe galinha por todo o lado. Os pintinhos fazem um barulhinho bem agudo: 'Piu-piu!' e estão sempre curiosos para descobrir o mundo.",
+      "emoji": "🐥",
+      "som": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/pintinho.mp3",
+        "hash": "ef5676ab3ba5b0925b54fe6859c51ff6"
+      },
+      "imagem": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/pintinho.png",
+        "hash": "eb25995b5aa9914db2fc18fcc07d1104"
+      },
+      "curiosidades": [
+        "Antes de nascerem, os pintinhos ficam bem apertadinhos dentro do ovo. Para sair, eles usam um 'dentinho' especial no bico para quebrar a casquinha! É como se eles estivessem dando pequenos toques mágicos até a porta se abrir.",
+        "Os pintinhos amam muito a mamãe galinha! Assim que nascem, eles já sabem quem é a mamãe e a seguem por todos os lugares. Se um pintinho se perde, ele começa a piar bem alto para que a mamãe o encontre rapidinho e o proteja com suas asas quentinhas."
       ]
     }
   ]

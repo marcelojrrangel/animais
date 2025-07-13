@@ -2,27 +2,24 @@
   "id": "domesticos",
   "nome": "Animais Domésticos",
   "versao": "1.0",
-  "criado_em": "2025-07-12",
+  "criado_em": "2025-07-13",
   "animais": [
     {
       "id": "cachorro",
       "nome": "Cachorro",
       "descricao": "O melhor amigo do homem! Faz 'au au' quando está feliz.",
-      "emoji": "🐕",
+      "emoji": "🐶",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cachorro.mp3",
-        "duracao_segundos": 2,
-        "tamanho_kb": 45,
         "hash": "abc123def456"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cachorro.png",
-        "tamanho_kb": 120,
         "hash": "img123hash456"
       },
       "curiosidades": [
-        "Existem mais de 300 raças de cães no mundo",
-        "Os cães conseguem entender até 150 palavras"
+        "Existem mais de 300 raças de cães no mundo.",
+        "Os cães conseguem entender até 150 palavras."
       ]
     },
     {
@@ -32,39 +29,33 @@
       "emoji": "🐱",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/gato.mp3",
-        "duracao_segundos": 1,
-        "tamanho_kb": 32,
         "hash": "gato123hash"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/gato.png",
-        "tamanho_kb": 95,
         "hash": "gatoimg456"
       },
       "curiosidades": [
-        "Gatos dormem de 12 a 16 horas por dia",
-        "Têm visão noturna 6 vezes melhor que humanos"
+        "Gatos dormem de 12 a 16 horas por dia.",
+        "Têm visão noturna 6 vezes melhor que a dos humanos."
       ]
     },
     {
       "id": "galo",
       "nome": "Galo",
-      "descricao": "Galinácio que faz 'cocó ricó' para se comunicar.",
-      "emoji": "🐓",
+      "descricao": "Canta para marcar território e acordar a fazenda.",
+      "emoji": "🐔",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/galo.mp3",
-        "duracao_segundos": 1,
-        "tamanho_kb": 32,
         "hash": "galo123hash"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/galo.png",
-        "tamanho_kb": 95,
         "hash": "galoimg456"
       },
       "curiosidades": [
-        "Cantam para marcar território",
-        "Conseguem ver cores melhor que humanos"        
+        "O canto do galo é conhecido como 'cocoricó'.",
+        "Conseguem ver cores melhor que muitos outros animais."
       ]
     },
     {
@@ -74,40 +65,33 @@
       "emoji": "🐴",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cavalo.mp3",
-        "duracao_segundos": 3,
-        "tamanho_kb": 67,
         "hash": "cavalo789hash"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cavalo.png",
-        "tamanho_kb": 150,
         "hash": "cavaloimg789"
       },
       "curiosidades": [
-        "Podem correr até 88 km/h",
-        "Conseguem dormir em pé"
+        "Cavalos podem correr a velocidades incríveis.",
+        "Eles conseguem dormir tanto em pé quanto deitados."
       ]
     },
     {
       "id": "vaca",
       "nome": "Vaca",
       "descricao": "Animal da fazenda que nos dá leite e faz 'muuu'.",
-      "emoji": "🐄",
+      "emoji": "🐮",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/vaca.mp3",
-        "duracao_segundos": 2,
-        "tamanho_kb": 52,
         "hash": "vaca456hash"
       },
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/vaca.png",
-        "duracao_segundos": 3,
-        "tamanho_kb": 58,
-        "hash": "gato789hash"
-      },      
+        "hash": "vaca_img_hash_123"
+      },
       "curiosidades": [
-        "Vacas teste, servem para fazer hambúrgueres",
-        "Têm visão noturna 6 vezes melhor que humanos"
+        "As vacas não conseguem descer escadas facilmente.",
+        "Elas bebem um volume de água equivalente a uma banheira cheia por dia."
       ]
     }
   ]

@@ -1,11 +1,11 @@
 {
   "versao_api": "1.0",
-  "ultima_atualizacao": "2025-07-12",
+  "ultima_atualizacao": "2025-07-13",
   "pacotes": [
     {
       "id": "domesticos",
       "nome": "Animais Domésticos",
-      "descricao": "Cachorro, gato, cavalo, vaca e galo",
+      "descricao": "Os amigos que vivem perto de nós.",
       "versao": "1.0",
       "tamanho_mb": 2.1,
       "gratuito": true,
@@ -14,10 +14,10 @@
       "preview": [
         {
           "nome": "Cachorro",
-          "emoji": "🐕"
+          "emoji": "🐶"
         },
         {
-          "nome": "Gato", 
+          "nome": "Gato",
           "emoji": "🐱"
         }
       ]
@@ -25,13 +25,13 @@
     {
       "id": "aves_brasil",
       "nome": "Aves do Brasil",
-      "descricao": "Bem-te-vi, sabiá, curió e mais",
+      "descricao": "Conheça os sons das aves do nosso país.",
       "versao": "1.0",
       "tamanho_mb": 3.5,
       "gratuito": false,
       "preco_brl": 4.99,
       "icone": "🦜",
-      "url_dados": "https://github.com/marcelojrrangel/animais/blob/main/pacotes/aves_brasil.json",
+      "url_dados": "https://raw.githubusercontent.com/marcelojrrangel/animais/main/pacotes/aves_brasil.json",
       "preview": [
         {
           "nome": "Bem-te-vi",
@@ -39,7 +39,7 @@
         },
         {
           "nome": "Sabiá",
-          "emoji": "🐦"
+          "emoji": "🎶"
         }
       ]
     }

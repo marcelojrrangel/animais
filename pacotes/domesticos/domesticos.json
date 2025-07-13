@@ -10,7 +10,7 @@
       "descricao": "O melhor amigo do homem! Faz 'au au' quando está feliz.",
       "emoji": "🐕",
       "som": {
-        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cachorro.ogg",
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cachorro.mp3",
         "duracao_segundos": 2,
         "tamanho_kb": 45,
         "hash": "abc123def456"
@@ -31,7 +31,7 @@
       "descricao": "Galinácio que faz 'cocó ricó' para se comunicar.",
       "emoji": "🐓",
       "som": {
-        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/galo.ogg",
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/galo.mp3",
         "duracao_segundos": 1,
         "tamanho_kb": 32,
         "hash": "galo123hash"
@@ -52,7 +52,7 @@
       "descricao": "Animal forte e elegante que faz 'iiiirrr' quando se comunica.",
       "emoji": "🐴",
       "som": {
-        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cavalo.ogg",
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cavalo.mp3",
         "duracao_segundos": 3,
         "tamanho_kb": 67,
         "hash": "cavalo789hash"
@@ -73,7 +73,7 @@
       "descricao": "Animal da fazenda que nos dá leite e faz 'muuu'.",
       "emoji": "🐄",
       "som": {
-        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/vaca.ogg",
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/vaca.mp3",
         "duracao_segundos": 2,
         "tamanho_kb": 52,
         "hash": "vaca456hash"

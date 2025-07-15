@@ -7,7 +7,7 @@
     {
       "id": "cachorro",
       "nome": "Cachorro",
-      "descricao": "O melhor amigo do homem! Faz 'au au' quando está feliz.",
+      "descricao": "Dizem que é o melhor amigo do homem! Faz 'au au' quando está feliz.",
       "emoji": "🐶",
       "som": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/sons/cachorro.mp3",
@@ -16,6 +16,10 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cachorro.png",
         "hash": "a49c314803da7eaa74e0f6f51ac39e57"
+      },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/cachorro.mp3",
+        "hash": "e5ef115d735adad1cc0b2330d991c747"
       },
       "curiosidades": [
         "Existem mais de 300 raças de cães no mundo.",
@@ -35,6 +39,10 @@
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/gato.png",
         "hash": "874376f2793bd05b2e87dad64965d4cc"
       },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/gato.mp3",
+        "hash": "742e575435c0ab5c5fb7334bdb4f5ca6"
+      },
       "curiosidades": [
         "Gatos dormem de 12 a 16 horas por dia.",
         "Têm visão noturna 6 vezes melhor que a dos humanos."
@@ -52,6 +60,10 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/galo.png",
         "hash": "b154d99752ffe5777c3ff3b93a1c56a2"
+      },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/galo.mp3",
+        "hash": "742e575435c0ab5c5fb7334bdb4f5ca6"
       },
       "curiosidades": [
         "O canto do galo é conhecido como 'cocoricó'.",
@@ -71,6 +83,10 @@
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/cavalo.png",
         "hash": "301a671953c73702ae3b7cb94c0ef966"
       },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/cavalo.mp3",
+        "hash": "6ff77020ffb5fbb9d3c924f5a9fe1141"
+      },
       "curiosidades": [
         "Cavalos podem correr a velocidades incríveis.",
         "Eles conseguem dormir tanto em pé quanto deitados."
@@ -88,7 +104,11 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/vaca.png",
         "hash": "59a397845211b781446d6cbf774df8f7"
-      },      
+      },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/vaca.mp3",
+        "hash": "f9481bce56bc8098fba4427a1ff0f784"
+      },
       "curiosidades": [
         "As vacas não conseguem descer escadas facilmente.",
         "Elas bebem um volume de água equivalente a uma banheira cheia por dia."
@@ -107,8 +127,12 @@
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/porco.png",
         "hash": "79da5dd4150021d2bb71962eb18e96c3"
       },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/porco.mp3",
+        "hash": "a48b040da9fe098b05f01b9b59a8042b"
+      },
       "curiosidades": [
-        "Porcos são considerados um dos animais mais inteligentes do planeta",
+        "Porcos são considerados um dos animais mais inteligentes do planeta.",
         "Eles se comunicam usando uma variedade de sons, que vão desde grunhidos suaves até guinchos altos."
       ]
     },
@@ -125,9 +149,13 @@
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/ovelha.png",
         "hash": "8351b302a86fd40110c5e9e45fe89ece"
       },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/ovelha.mp3",
+        "hash": "e51fd4b3b0e8c065dcf71f6c4d162175"
+      },
       "curiosidades": [
         "Sabe aquele cabelo de nuvem das ovelhas? Ele cresce o ano todo! Por isso, elas precisam de um 'corte de cabelo' especial para não ficarem com muito calor e ficarem bem levinhas.",
-        "s ovelhas são muito espertas! Elas conseguem reconhecer o rosto de outras ovelhas amigas e até o rosto de pessoas que gostam delas, como você! Elas guardam esses rostinhos na memória por muito tempo!"
+        "As ovelhas são muito espertas! Elas conseguem reconhecer o rosto de outras ovelhas amigas e até o rosto de pessoas que gostam delas, como você! Elas guardam esses rostinhos na memória por muito tempo!"
       ]
     },
     {
@@ -142,6 +170,10 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/pato.png",
         "hash": "76abf48593e462babaf4fdbd03abb19f"
+      },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/pato.mp3",
+        "hash": "2be290b1ca8a61c6bdb02cd3b24cfdaf"
       },
       "curiosidades": [
         "Os patos têm pés que parecem raquetes! Isso os ajuda a empurrar a água e nadar super rápido, como se fossem pequenos barquinhos.",
@@ -161,6 +193,10 @@
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/galinha.png",
         "hash": "c9ff6201915e1841162bf777de9c1d14"
       },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/galinha.mp3",
+        "hash": "a7abecd07054b70b50f19d90c3194140"
+      },
       "curiosidades": [
         "As galinhas adoram conversar entre si! Elas fazem muitos barulhinhos diferentes para chamar seus filhotes, avisar sobre um perigo ou simplesmente para bater um papo com as outras galinhas. É como se tivessem um idioma secreto!",
         "A mamãe galinha choca seus ovinhos com muito amor e cuidado, sentando-se neles para mantê-los quentinhos até os pintinhos nascerem. Depois que os pintinhos saem dos ovos, ela os ensina a encontrar comidinha e os protege de qualquer perigo, sendo uma super-mãe!"
@@ -178,6 +214,10 @@
       "imagem": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/imagens/pintinho.png",
         "hash": "eb25995b5aa9914db2fc18fcc07d1104"
+      },
+      "narrativa": {
+        "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/narrativas/pintinho.mp3",
+        "hash": "6c297a1a42f509192c4a7fc98aabb075"
       },
       "cantiga": {
         "url": "https://marcelojrrangel.github.io/animais/pacotes/domesticos/cantigas/pintinho.mp3",
